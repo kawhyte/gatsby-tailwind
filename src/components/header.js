@@ -69,7 +69,7 @@ function Header() {
             </Link>
           ))}
           <a  href="https://www.kennywhyte.com/"
-          className="block text-black no-underline md:inline-block md:mt-0 md:ml-6 mt-4 font-medium text-indigo-600 hover:text-indigo-900 focus:outline-none focus:text-indigo-700 transition duration-150 ease-in-out"
+          className="block  no-underline md:inline-block md:mt-0 md:ml-6 mt-4 font-medium text-indigo-600 hover:text-indigo-900 focus:outline-none focus:text-indigo-700 transition duration-150 ease-in-out"
           >    Made by Kenny
           {/* <span role="img" aria-label="pizza">
             🍕
